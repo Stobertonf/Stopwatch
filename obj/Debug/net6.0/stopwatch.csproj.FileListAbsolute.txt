@@ -1,0 +1,15 @@
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\bin\Debug\net6.0\stopwatch.exe
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\bin\Debug\net6.0\stopwatch.deps.json
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\bin\Debug\net6.0\stopwatch.runtimeconfig.json
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\bin\Debug\net6.0\stopwatch.dll
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\bin\Debug\net6.0\ref\stopwatch.dll
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\bin\Debug\net6.0\stopwatch.pdb
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.csproj.AssemblyReference.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.AssemblyInfoInputs.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.AssemblyInfo.cs
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.csproj.CoreCompileInputs.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.dll
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\ref\stopwatch.dll
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.pdb
+D:\Ajuda\Cursos\C#\Cursos\Balta\Stopwatch\stopwatch\obj\Debug\net6.0\stopwatch.genruntimeconfig.cache
