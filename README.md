@@ -4,6 +4,6 @@ Projeto do curso da carreira de Backend .Net / Fundamentos do C#, do Professor A
 
 Neste curso eu tive a oportunidade revisar alguns conceitos como funções, funções com parâmetros, como ler uma string e converter ela para minúscula.
 
-Também tive a oportunidade de rever o conceito de multiplicadores e Thread.
+Além disso, tive a oportunidade de rever o conceito de multiplicadores e Thread.
 
 O projeto foi finalizado por volta de 13/02/2022.
