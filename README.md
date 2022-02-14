@@ -1,6 +1,6 @@
 # Stopwatch
 
-Projeto do curso da carreira de Backend .Net / Fundamentos do C#, do Professor André Baltieri (Balta), na plataforma https://balta.io para aprender a fazer uma Cronômetro.
+Projeto do curso da carreira de Backend .Net / Fundamentos do C#, do Professor André Baltieri (Balta), na plataforma https://balta.io para aprender a fazer um Cronômetro.
 
 Neste curso eu tive a oportunidade revisar alguns conceitos como funções, funções com parâmetros, como ler uma string e converter ela para minúscula.
 
